@@ -13,7 +13,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,java,git,typescript" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,javascript,vscode,github,java,git,typescript" />
 </div>
 
 # 📊 GitHub Stats:
