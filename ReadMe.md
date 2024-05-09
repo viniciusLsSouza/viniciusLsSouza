@@ -6,10 +6,11 @@
  
   
 </div>
+<br/>
 
 
 
-<div align="center">
+<div align="center" >
 
   <img src="https://skillicons.dev/icons?i=react,html,css,javascript,vscode,github,java,git,typescript" />
 </div>
