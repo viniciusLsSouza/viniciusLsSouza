@@ -11,7 +11,7 @@
 
 <div align="center" >
 
-  <img src="https://skillicons.dev/icons?i=java,git,mysql," />
+  <img src="https://skillicons.dev/icons?i=java,git,mysql,javascript" />
 </div>
 
 
